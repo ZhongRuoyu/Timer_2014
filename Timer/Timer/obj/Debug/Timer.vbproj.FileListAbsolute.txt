@@ -1,0 +1,15 @@
+c:\users\chung\documents\visual studio 2013\Projects\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\bin\Debug\Timer.xml
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\obj\Debug\Timer.Resources.resources
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\obj\Debug\Timer.vbproj.GenerateResource.Cache
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\obj\Debug\Timer.xml
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\bin\Debug\Timer.exe.manifest
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\bin\Debug\Timer.application
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\obj\Debug\Timer.TrustInfo.xml
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\obj\Debug\Timer.exe.manifest
+C:\Users\Chung\documents\visual studio 2013\Projects\Timer\Timer\obj\Debug\Timer.application
